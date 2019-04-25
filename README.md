@@ -4,7 +4,7 @@
 
 --------------------------------------
 
-# 若對此專案有任何問題(Bug)，請至 [Cotpear/pages](https://github.com/Cotpear/pages) 提問
+# 若對此專案有任何問題(Bug)，請至 [Cotpear/pages](https://github.com/Cotpear/pages) 提問。
 
 
 
