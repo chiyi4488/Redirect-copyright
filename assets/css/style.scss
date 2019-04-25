@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500|Righteous');
+//@import "fonts";
+.menu { list-style-type : none; }
+.site_title { font-family: 'Righteous', 'Noto Sans TC' !important;}

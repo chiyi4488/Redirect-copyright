@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "zh-Hant-TW" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png"/>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="site_title"><a href="{{ "/" | absolute_url }}"><span style="color:#da2b25;">Cotpear</span> 隱私權與條款</a></h1>
+      </header>
+      <section>
+      {{ content }}
+      </section>
+      <footer>
+        版權所有 © 2019 <span class="site_title">Cotpear</span> 保留一切權利。
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
