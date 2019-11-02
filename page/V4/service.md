@@ -1,7 +1,5 @@
 ---
 layout: default
-permalink: /Terms_of_Service
-title: 重新導向中....
+permalink: /Terms_of_Service/
 ---
-
-<meta content='0; url=https://policies.cotpear.com/v3/copyright' http-equiv='refresh'/>
+<meta content='0; url=https://policies.cotpear.com/terms/archive/' http-equiv='refresh'/>
